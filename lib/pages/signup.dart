@@ -96,6 +96,7 @@ class SignUpState extends State<SignUp> {
                     ),
                   ),
 
+
                   Padding(
                     padding: const EdgeInsets.all(10.0),
                     child: TextField(
